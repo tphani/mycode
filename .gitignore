@@ -1,3 +1,6 @@
 *.log
 *.key
 id_rsa*
+# .gitignore
+/nextjs-webpack/node_modules/@next/swc-linux-x64-gnu/next-swc.linux-x64-gnu.node
+
